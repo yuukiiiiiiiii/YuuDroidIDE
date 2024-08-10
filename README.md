@@ -13,3 +13,7 @@
 - I hope that you all will contribute on this project to make it much better...
 
 **Also, special thanks for sora-editor**
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
