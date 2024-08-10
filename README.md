@@ -12,6 +12,11 @@
 
 - I hope that you all will contribute on this project to make it much better...
 
+## Socials
+
+- Telegram Group: [join the telegram group to keep updated!](https://t.me/seisiuuu)
+- Contact me: [yuukii.org@gmail.com](mailto:yuukii.org@gmail.com)
+
 **Also, special thanks for sora-editor**
 
 ## License
