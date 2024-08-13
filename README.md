@@ -12,6 +12,12 @@
 
 - I hope that you all will contribute on this project to make it much better...
 
+## Example Showcase
+
+![Showcase 1](example1.gif)
+
+![Showcase 2](example2.gif)
+
 ## Socials
 
 - Telegram Group: [join the telegram group to keep updated!](https://t.me/seisiuuu)
