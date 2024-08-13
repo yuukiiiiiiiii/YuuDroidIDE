@@ -14,9 +14,10 @@
 
 ## Example Showcase
 
-![Showcase 1](example1.gif)
-
-![Showcase 2](example2.gif)
+<div style="display: flex;">
+  <img src="example1.gif" alt="Showcase 1" width="200"/>
+  <img src="example2.gif" alt="Showcase 2" width="200"/>
+</div>
 
 ## Socials
 
